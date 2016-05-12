@@ -1,4 +1,8 @@
 .DS_Store
 /site/accounts
 /assets/avatars
+/assets/css
+/assets/js
 /thumbs/*
+node_modules
+bower_components

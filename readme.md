@@ -1,3 +1,8 @@
+# getkirby-gulp-starterkit
+
+A fork of the main [Starterkit](https://github.com/getkirby/starterkit) with an additional gulp file and scaffold to get that running.
+
+
 # Kirby
 
 Kirby is a file-based CMS.
